@@ -95,7 +95,7 @@ to abide by its terms.
 
 Nelson, S., Lucchesi, L. and Kuhnert. P.M. (2022). VizumApp: A Shiny App
 for visualizing uncertainty in spatial data using the Vizumap R package,
-DOI: <http://hdl.handle.net/102.100.100/439688?index=1>
+<http://hdl.handle.net/102.100.100/439688?index=1>
 
 ## References
 
